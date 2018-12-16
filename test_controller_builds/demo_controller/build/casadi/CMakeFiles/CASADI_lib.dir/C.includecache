@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/nmpc-codegen-python/test_controller_builds/demo_controller/casadi/cost_function.c
+math.h
+-
+
+/home/nick/nmpc-codegen-python/test_controller_builds/demo_controller/casadi/cost_function_derivative_combined.c
+math.h
+-
+
+/home/nick/nmpc-codegen-python/test_controller_builds/demo_controller/casadi/evaluate_constraints.c
+math.h
+-
+
+/home/nick/nmpc-codegen-python/test_controller_builds/demo_controller/casadi/integrator.c
+math.h
+-
+

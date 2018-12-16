@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPANOC_lib.a  CMakeFiles/PANOC_lib.dir/buffer.c.o CMakeFiles/PANOC_lib.dir/panoc.c.o CMakeFiles/PANOC_lib.dir/matrix_operations.c.o CMakeFiles/PANOC_lib.dir/nmpc.c.o CMakeFiles/PANOC_lib.dir/lipschitz.c.o CMakeFiles/PANOC_lib.dir/lbfgs.c.o CMakeFiles/PANOC_lib.dir/proximal_gradient_descent.c.o CMakeFiles/PANOC_lib.dir/casadi_interface.c.o
+/usr/bin/ranlib libPANOC_lib.a

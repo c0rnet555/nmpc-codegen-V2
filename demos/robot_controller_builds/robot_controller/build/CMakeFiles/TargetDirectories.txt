@@ -1,0 +1,9 @@
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/CMakeFiles/rebuild_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/CMakeFiles/edit_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/CMakeFiles/python_interface.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/PANOC/CMakeFiles/edit_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/PANOC/CMakeFiles/rebuild_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/PANOC/CMakeFiles/PANOC_lib.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/casadi/CMakeFiles/rebuild_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/casadi/CMakeFiles/edit_cache.dir
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/build/casadi/CMakeFiles/CASADI_lib.dir

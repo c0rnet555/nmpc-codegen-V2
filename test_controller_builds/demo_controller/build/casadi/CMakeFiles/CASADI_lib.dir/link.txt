@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCASADI_lib.a  CMakeFiles/CASADI_lib.dir/cost_function_derivative_combined.c.o CMakeFiles/CASADI_lib.dir/cost_function.c.o CMakeFiles/CASADI_lib.dir/integrator.c.o CMakeFiles/CASADI_lib.dir/evaluate_constraints.c.o
+/usr/bin/ranlib libCASADI_lib.a

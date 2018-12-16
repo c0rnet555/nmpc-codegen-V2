@@ -1,0 +1,1 @@
+gcc  -fPIC -O3  -shared -Wl,-soname,libpython_interface.so -o libpython_interface.so CMakeFiles/python_interface.dir/python_interface/nmpc_python.c.o CMakeFiles/python_interface.dir/python_interface/timer_linux.c.o PANOC/libPANOC_lib.a casadi/libCASADI_lib.a 

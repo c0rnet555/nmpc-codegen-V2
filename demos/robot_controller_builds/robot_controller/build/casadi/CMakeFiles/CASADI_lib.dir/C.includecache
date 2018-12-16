@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/casadi/cost_function.c
+math.h
+-
+
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/casadi/cost_function_derivative_combined.c
+math.h
+-
+
+/home/nick/nmpc-codegen-python/demos/robot_controller_builds/robot_controller/casadi/integrator.c
+math.h
+-
+
